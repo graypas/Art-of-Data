@@ -7,7 +7,7 @@ comments: true
 ---
 
 {: .box-note}
-In response to the prompt assigned to me, I analyzed a scientific report about emotional content's impact on gaze inhibition in social situations and answered the questions. 
+In response to the prompt assigned to me, I analyzed a scientific report about emotional content's impact on gaze tendencies in social situations and answered the questions. 
 
 ## Question One
 **What are the null and alternative hypotheses?**
