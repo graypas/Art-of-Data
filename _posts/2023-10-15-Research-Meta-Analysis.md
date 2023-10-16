@@ -2,7 +2,7 @@
 layout: post
 title: Research Meta Analysis
 subtitle: Analyzing the scientific report, "Effects of emotional content on social inhibition of gaze in live social and non-social situations" by Laura Pasqualette & Louisa Kulke.
-tags: [report,analysis]
+tags: [analysis]
 comments: true
 ---
 
