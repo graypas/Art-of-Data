@@ -23,50 +23,50 @@ For every category I found that a boxplot was the best way to represent the two'
 
 **Points**
 
-![ptscomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/ptscomp.png){:height="300px" width="400px"}
+![ptscomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/ptscomp.png){:height="400px" width="500px"}
 
 The data shows that throughout the two's careers Michael Jordan averaged a signficantly higher points per game. But what is not shown in the graph is that at the end of his career when he was on the wizards he had a steep fall off, while LeBron throughout his entire career has only increased since his rookie season with little sign of slowing down despite entering year 21. 
 
 **Assists**
 
-![astcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/astcomp.png){:height="300px" width="400px"}
+![astcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/astcomp.png){:height="400px" width="500px"}
 
 The data shows that LeBron has averaged a much higher assist per game. This is the first example of a statistic not telling the full story as it was simply never Jordan's role on any team to be the team's primary passer as he was literally a scorer. As well as the fact that despite LeBron being larger he has had years where he plays the point guard, where assists would become a much larger focus than it normally would than if he was playing his normal small forward position.
 
 **Field Goal Percent**
 
-![fgpcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/fgpcomp.png){:height="300px" width="400px"}
+![fgpcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/fgpcomp.png){:height="400px" width="500px"}
 
 Field goal percent shows us how a effecient a certain player is, meaning if I gave LeBron the ball 100 times his median shows us that he would score 51% of the time. While there are advanced stats that can show us what the point attempted and whether it is considered a "good shot" or not but it's not necesarily relevant. For our purposes we can see that except for a signficant outlier the majority of the time Lebron has a much higher efficiency than Jordan does. 
 
 **Offensive Rebounds**
 
-![orbcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/orbcomp.png){:height="300px" width="400px"}
+![orbcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/orbcomp.png){:height="400px" width="500px"}
 
 Offensive rebounds are a really key hustle stat, as in most circumstances obtaining one would mean you had to outhustle the defender and outstrength the box out. This is a really interesting stat because LeBron despite being three inches taller and currently 50 pounds heavier than Jordan was, Jordan was consistently getting more offensive rebounds. It's impossible to say why Jordan has more than LeBron as you cannot measure how badly a player wants to get a rebound, but it can be speculated that because Jordan was in a more physical era he was okay with getting hit and fighting more than LeBron is. 
 
 **Defensive Rebounds**
 
-![drbcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/drbcomp.png){:height="300px" width="400px"}
+![drbcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/drbcomp.png){:height="400px" width="500px"}
 
 Defensive rebounds are not seen as much as a hustle stat but are still useful to look at nonetheless. Your role on the team plays a big part in how many defensive rebounds one can get, as smaller players are not normally under the basket when the ball falls. LeBron is almost always one of the largest players on the court so it has become almost an expectation for him to box out other centers and forwards. LeBron by far grabs more defensive rebounds than Jordan did.
 
 **Steals**
 
-![stlcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/stlcomp.png){:height="300px" width="400px"}
+![stlcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/stlcomp.png){:height="400px" width="500px"}
 
 The data shows that Jordan is a much more consistent stealer than LeBron ever has been, but it is a difficult measure. In the modern era the level of dribbling has increased exponentially, and while it is a debate whether or not the dribbles are necessary the increase in skill is apparent. Stealing is also kind of a role based statistic, as it is significantly harder to steal the ball when someone is backing you down then dribbling face to face, but due to LeBron's fluctuation in position it becomes harder to measure whether or not it's an excuse. 
 
 **Blocks**
 
-![blkcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/blkcomp.png){:height="300px" width="400px"}
+![blkcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/blkcomp.png){:height="400px" width="500px"}
 
 It's almost an expectation that the taller you are the more blocks you will amass, as the taller you get the longer your wingspan gets and small guards get relatively smaller. What's interesting is that Jordan is a much more consistent blocker than Lebron is throughout his career. There is no real argument you can make for LeBron to have less blocks, but you can always take advanced statistcs such as +/- to try and measure a players impact. But with advanced statistcs it creates conversations of accuracy and relevancy, as no statistic can tell a full story.
 
 **Relationship**
 As LeBron and Jordan never played in the same era there is absolutely no relationship between their averages, nor are there statiscs in games played against eachother (even if they did you could argue the relevancy of the statistics of games played against eachother). Nevertheless I tried to see if I could find relationships in there own statistics using my dataset. 
 
-![broncorr](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/broncorr.png){:height="400px" width="400px"}
+![broncorr](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/broncorr.png){:height="500px" width="500px"}
 
 Key Observations: 
 - Strong positive correlation (.69) between FG% and PTS
@@ -78,7 +78,7 @@ Key Observations:
 
 You can make arguments as to why these statistics have positive correlations for example, his scoring efficiency seemed to be linked with his ability to steal and rebound. However, it's important to remember that correlation does not imply causation, and these relationships could be influenced by various factors, including the specific dynamics of each game, strategies used, and the opponents faced.
 
-![jordancorr](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/jordancorr.png){:height="400px" width="400px"}
+![jordancorr](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/jordancorr.png){:height=500px" width="500px"}
 
 Key Observations:
 - Positive correlation (.64) between FG% and DRB
