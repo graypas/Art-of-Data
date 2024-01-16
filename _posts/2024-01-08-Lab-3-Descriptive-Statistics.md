@@ -11,7 +11,8 @@ For this lab I used Basketball Reference to access Michael Jordan's and Lebron J
 [This is a link to Michael Jordan's stats](https://www.basketball-reference.com/players/j/jordami01.html#per_game), and [this is a link to Lebron James'](https://www.basketball-reference.com/players/j/jamesle01.html#per_game)
 
 ## Why those datasets:
-{: .box-warning}I chose not to use advanced stats as many of them are really incomparable as the two players played in very different eras, and had very different roles on their team. As well as the fact that many advanced stats use speculation with no gurantee. 
+{: .box-warning}
+I chose not to use advanced stats as many of them are really incomparable as the two players played in very different eras, and had very different roles on their team. As well as the fact that many advanced stats use speculation with no gurantee. 
 
 
 Basketball Reference had alot of statistics on both players but the majority of the data is mostly irrelevant, and not talked about when typically comparing the players. So for my study I only choose: points, assists, offensive rebounds, field goal percent, defensive rebounds, steals, and blocks. I selected these as it was most representative of the two players defnsive and offensive capabilities. I found it necessary to seperate offensive rebounds and defensive rebounds to the more used stat of rebounding, but getting and offensive rebound and defensive rebound are two completely different skillsets making it important to differentiate. 
