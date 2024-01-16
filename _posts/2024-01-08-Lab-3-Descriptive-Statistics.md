@@ -2,15 +2,15 @@
 layout: post
 title: Descriptive Statistics
 subtitle: Comparing Lebron James and Michael Jordan
-tags: [lab]
+tags: [lab][Comparison]
 comments: true
 ---
 
-## One:
+## What datasets I used:
 For this lab I used Basketball Reference to access Michael Jordan's and Lebron James' career statistics. 
 [This is a link to Michael Jordan's stats](https://www.basketball-reference.com/players/j/jordami01.html#per_game), and [this is a link to Lebron James'](https://www.basketball-reference.com/players/j/jamesle01.html#per_game)
 
-## Two:
+## Why those datasets:
 {: .box-warning}I chose not to use advanced stats as many of them are really incomparable as the two players played in very different eras, and had very different roles on their team. As well as the fact that many advanced stats use speculation with no gurantee. 
 
 
@@ -18,7 +18,7 @@ Basketball Reference had alot of statistics on both players but the majority of 
 
 From these datasets I hope to be able to ascertain which player is more consistent in every category, as well as who had the higher peak. 
 
-## Three:
+## Analyzing the datasets:
 For every category I found that a boxplot was the best way to represent the two's careers in the categories. 
 
 **Points**
@@ -35,7 +35,7 @@ The data shows that LeBron has averaged a much higher assist per game. This is t
 
 **Field Goal Percent**
 
-![fg%comp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/fg%comp.png){:height="300px" width="400px"}
+![fgpcomp](https://graypas.github.io/Art-of-Data/assets/img/lab3_images/fgpcomp.png){:height="300px" width="400px"}
 
 Field goal percent shows us how a effecient a certain player is, meaning if I gave LeBron the ball 100 times his median shows us that he would score 51% of the time. While there are advanced stats that can show us what the point attempted and whether it is considered a "good shot" or not but it's not necesarily relevant. For our purposes we can see that except for a signficant outlier the majority of the time Lebron has a much higher efficiency than Jordan does. 
 
