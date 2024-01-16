@@ -2,7 +2,7 @@
 layout: post
 title: Descriptive Statistics
 subtitle: Comparing Lebron James and Michael Jordan
-tags: [lab][Comparison]
+tags: [lab]
 comments: true
 ---
 
